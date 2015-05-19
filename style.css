@@ -1,0 +1,72 @@
+html{
+  font-family: Arial;
+}
+/*
+.container{
+  margin:auto;
+  width: 300px;
+}
+*/
+
+h2{
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  width: 250px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #E6E6E6;
+  font-size: 25px;
+}
+div{
+  padding: 3px;
+}
+label {
+  width: 100px;
+  display: inline-block;
+}
+.submit{
+  margin-left: 100px;
+}
+section{
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 10px;
+  padding: 15px;
+  width: 300px;
+  border-radius: 15px;
+}
+.login{
+  background-color:#AED1D6;
+}
+.myprofile{
+  background-color:#B8FF94;
+}
+.signup{
+  background-color: #7584AD;
+}
+.maintitle{
+  margin:auto;
+  width:800px;
+  font-weight: bold;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 35px;
+}
+
+p{
+  text-align: inherit;
+}
+
+/*
+.userdata{
+  font-family: Arial;
+}
+.Login{
+  border-width: 10px;
+  border-color: black;
+  border-style: solid;
+}
+
+
+*/
